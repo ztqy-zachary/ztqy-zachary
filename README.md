@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.zzachary.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=fmt.Println(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22);print(%22Hello%2C%20World%22)&center=true&size=25" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=welcome+%3Calert(%22hello%2C+world%22);%3Cconsole.log(%22hello%2C+world%22);" alt="Typing SVG" /></a>
     </a>
   </div>
 
